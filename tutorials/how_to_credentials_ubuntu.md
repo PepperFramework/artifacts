@@ -18,7 +18,7 @@ ssh-add ~/.ssh/[NEW KEY (file name above)]
 Copy the content from the .pub file:
 
 ```
-nano ~/.ssh/[NEW KEY (file name above)].pub file
+nano ~/.ssh/[NEW KEY (file name above)].pub
 ```
 
 ## 2. Add the key to GitHub
