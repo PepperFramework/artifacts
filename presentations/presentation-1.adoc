@@ -1,0 +1,100 @@
+= Rezep
+:sectnums:
+:toc:
+
+== Introduction
+
+We want to build a digital receptionist, which is made for (self-check-in) hotels. It should be able to answer all hotel related questions and also do specific tasks like calling a cab or helping with the mobile check-in process. 
+
+=== Layering System
+
+*3 Layers sorted trough AI:*
+
+1. Already known answer
+
+2. Other Source (ChatGPT, Google Maps, etc.)
+
+3. Connection to reception (Chat)
+
+The AI learns from layer 2 and 3.
+
+=== Support
+
+Already made great connections to many interested hotels. Like
+
+* Schwarzer Bär
+* ArtInn
+* BeeGreen
+* MamaMuh
+* Lakeside Village (Czech Republik)
+
+== Team
+
+=== Jonas Pamminger 
+ - Backend
+ - Database
+ - AI
+
+=== Fabian Baitura
+ - Unit-Testing
+ - Code Inspection
+ - Full-Stack Developer
+
+=== Leon Leeb 
+ - User Interaction
+ - Frontend
+
+=== Felix Dorn-Fussenegger 
+ - Full-Stack Developer
+ - Communication with patner company
+
+=== Paul Nell
+ - Backend
+ - Database
+ - AI
+ - Communication with patner company
+
+== Scope
+
+=== Must have
+
+- Talking Face
+
+- English and German language support
+
+- Answering basic questions
+
+- Help with the check-in / -out process
+
+- Text to speech / speech to text
+
+- Connection to reception
+
+- Data-Collection System
+
+=== Nice to have
+
+- Full check-in / -out process
+- Multiple language support
+
+- Website support
+
+- Answer Rating
+
+- Admin Panel
+
+- Movement Sensor
+
+=== Not in scope
+
+- No physical frame (only software)
+
+== Milestones
+
+* End of October 2023: Data-Collection System & Backend Start & Basic Rendering
+
+* Spring 2024: Speech-Recognition, First AI Model, Base Modelling Start
+
+* Summer 2024: Text-To-Speech, Finished Database Model, Finished Base Model
+
+* Autumn 2024: First go live, Animations Done
