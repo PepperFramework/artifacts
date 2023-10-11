@@ -1,0 +1,19 @@
+@startuml
+package "User" {
+  [Pepper]
+  [Datenerhebungstool]
+}
+
+package "Server" {
+  [Backend] <--> [AI Trainingstool]
+  [Pepper] <--> [Backend]
+  [Datenerhebungstool] <--> [Backend]
+
+  database "Postgres DB" {
+
+  }
+}
+
+[AI Trainingstool] <-- [Postgres DB]
+[Backend] <--> [Postgres DB]
+@enduml
