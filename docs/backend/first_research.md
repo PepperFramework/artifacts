@@ -47,4 +47,4 @@ Wir wollen drei Layers machen für die Fragen beantwortungen:
 
 Wie haben wir die Komponenten geplant?
 
-[Komponentendiagramm](./componentDiagramm.puml)
+[Komponentendiagramm](./componentDiagram.puml)
