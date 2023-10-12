@@ -1,4 +1,4 @@
-@startuml
+@startuml componentDiagram
 package "User" {
   [Pepper]
   [Datenerhebungstool]
@@ -9,11 +9,9 @@ package "Server" {
   [Pepper] <--> [Backend]
   [Datenerhebungstool] <--> [Backend]
 
-  database "Postgres DB" {
-
-  }
+  database "Postgres DB"
 }
 
 [AI Trainingstool] <-- [Postgres DB]
-[Backend] <--> [Postgres DB]
+[Backend] <-left-> [Postgres DB]
 @enduml
