@@ -35,7 +35,6 @@ Nachteile
 - External AIs (ChatGPT, DeepL, ...)
 
 ### Wie werden wir AI nutzten?
-
 #### Layering System
 
 Wir wollen drei Layers machen für die Fragen beantwortungen:
@@ -48,6 +47,4 @@ Wir wollen drei Layers machen für die Fragen beantwortungen:
 
 Wie haben wir die Komponenten geplant?
 
-[Komponentendiagramm](./compontentsDiagram.puml)
-
-
+[Komponentendiagramm](./componentDiagramm.puml)
