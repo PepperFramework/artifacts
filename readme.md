@@ -9,3 +9,5 @@ Our Team:
 -   Jonas Pamminger
 -   Felix Dorn-Fussenegger
 -   Paul Nell
+
+Testing Discord WebHooks
