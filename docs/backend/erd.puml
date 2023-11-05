@@ -1,0 +1,47 @@
+@startuml backend_erd
+
+!define ENTITY class
+!define PRIMARY_KEY PK
+!define FOREIGN_KEY FK
+
+ENTITY ConfigUser {
+    <<PRIMARY_KEY>> id: number
+    firstName: string
+    lastName: string
+    email: string
+    password: string
+    <<FOREIGN_KEY>> roleId: number
+}
+
+ENTITY Role {
+    <<PRIMARY_KEY>> id: number
+    name: string
+}
+
+ENTITY Permission {
+    <<PRIMARY_KEY>> id: number
+    name: string
+}
+
+ENTITY Config {
+    <<PRIMARY_KEY>> id: number
+    title: string
+    value: string
+}
+
+ENTITY Question {
+    <<PRIMARY_KEY>> id: number
+    text: string
+}
+
+ENTITY Answer {
+    <<PRIMARY_KEY>> id: string
+    text: string
+    user: string
+}
+
+ConfigUser }o--|| Role
+Role }o--o{ Permission
+Question }|--o{ Answer
+
+@enduml
