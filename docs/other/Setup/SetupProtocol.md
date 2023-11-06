@@ -396,3 +396,17 @@ et Emulator
 ---
 
 ## Leon Leeb
+
+### Meetings with Ahif (And How They Went)
+
+* First meeting: Setting up the pepper sdk and connecting to pepper / uploading dummy app.
+* Pepper Presentaion: Complete mess, other class didn't have linux so we wasted the whole time for setting up dual boot.
+
+---
+
+### Other Issues
+
+* Having trouble connecting to the real Pepper and emulation strait up hasn't worked yet
+* Deadlock on help
+* faulty Router connection
+* Hard to find good turtorials for developing the pepper when searching the web
