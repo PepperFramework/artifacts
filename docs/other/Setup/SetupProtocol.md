@@ -30,7 +30,7 @@ This is written by mind so it may be incorrect to a small degree (next time writ
 
 ---
 
-### Meethings with Ahif (And how they went)
+### Meetings with Ahif (And how they went)
 * first meeting, introducing bugs we currently have, fixing sdk not recognized bug, trying to connect to pepper / failure
 * secound meeting, trying to fix gradle bug without success. Trying to fix 95% Emulator loading bug without success (Emulator is apperently not being recognized).
 
@@ -191,11 +191,11 @@ This is written by mind so it may be incorrect to a small degree (next time writ
 
 ---
 
-## Leon Leeb
+## Leon Leeb Issue rundown
 
 ### Meetings with Ahif (And How They Went)
 
-* First meeting: Tried to setup the pepper development environment
+* First meeting: Tried to setup the pepper development environment (failed)
 * Pepper Presentaion: Complete mess, other class didn't have linux so we wasted the whole time for setting up dual boot.
 
 ---
