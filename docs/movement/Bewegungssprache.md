@@ -40,18 +40,18 @@ Portabilität und Anpassbarkeit: Eine gut entworfene DSL ermöglicht es, Anweisu
 
 Ein praktisches Beispiel einer DSL könnte die folgende Struktur haben, die menschenähnliche Befehle für alltägliche Bewegungen des Roboters verwendet:
 
-BEGIN_SEQUENCE
-  SET POSTURE STANDING
-  MOVE FORWARD 3_STEPS
-  MOVE BACKWARD 2_STEPS
-  LIFT LEFT_ARM 45_DEGREES
-  LIFT RIGHT_ARM 45_DEGREES
-  GRASP LEFT_HAND
-  RELEASE LEFT_HAND
-  TURN HEAD LEFT 30_DEGREES
-  TURN HEAD RIGHT 30_DEGREES
-  SAY "Hello, World!"
-END_SEQUENCE
+    BEGIN_SEQUENCE
+      SET POSTURE STANDING
+      MOVE FORWARD 3_STEPS
+      MOVE BACKWARD 2_STEPS
+      LIFT LEFT_ARM 45_DEGREES
+      LIFT RIGHT_ARM 45_DEGREES
+      GRASP LEFT_HAND
+      RELEASE LEFT_HAND
+      TURN HEAD LEFT 30_DEGREES
+      TURN HEAD RIGHT 30_DEGREES
+      SAY "Hello, World!"
+    END_SEQUENCE
 
 #### Interpreter: 
 Der Kern der DSL liegt in ihrem Interpreter. Dieser übersetzt die hochgradig abstrahierten Befehle in spezifische Steuerbefehle, die für Pepper geeignet sind. Zum Beispiel wird der Befehl MOVE FORWARD 3_STEPS in eine Serie von Anweisungen übersetzt, die die Bewegung der Beine, die Balance und die Ausrichtung des Roboters koordinieren.
