@@ -18,8 +18,9 @@ Einschränkungen: Obwohl G-Code in der Maschinensteuerung effektiv ist, stößt 
 
 ### ROS, Rapid, KRL
 
-    Merkmale: Diese Programmiersprachen bieten fortschrittlichere Funktionen als G-Code, insbesondere im Hinblick auf die Integration von Sensordaten und die Koordination komplexer Bewegungsabläufe.
-    Herausforderungen: Trotz ihrer Fortschritte bleiben auch diese Sprachen in Bezug auf Benutzerfreundlichkeit und spezifische Anpassung an einzelne Robotermodelle hinter den Anforderungen zurück. Insbesondere die Notwendigkeit, spezielle Treiber und Schnittstellen für jeden Roboter zu entwickeln, kann den Entwicklungsprozess verlangsamen und komplizieren.
+Merkmale: Diese Programmiersprachen bieten fortschrittlichere Funktionen als G-Code, insbesondere im Hinblick auf die Integration von Sensordaten und die Koordination komplexer Bewegungsabläufe.
+
+Herausforderungen: Trotz ihrer Fortschritte bleiben auch diese Sprachen in Bezug auf Benutzerfreundlichkeit und spezifische Anpassung an einzelne Robotermodelle hinter den Anforderungen zurück. Insbesondere die Notwendigkeit, spezielle Treiber und Schnittstellen für jeden Roboter zu entwickeln, kann den Entwicklungsprozess verlangsamen und komplizieren.
 
 ## 2. Entwicklung einer eigenen Sprache (DSL)
 ### Vorteile einer DSL
