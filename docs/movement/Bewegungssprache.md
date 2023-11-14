@@ -87,3 +87,12 @@ Benutzerfeedback und Iteration: Die Entwicklung der DSL sollte ein iterativer Pr
 Die Entwicklung einer Bewegungssprache für das Pepper Framework bietet ein enormes Potenzial zur Verbesserung der Interaktion und Steuerung humanoider Roboter. Durch die Schaffung einer benutzerfreundlichen, anpassbaren und effizienten DSL eröffnen sich neue Möglichkeiten für dieses Projekt in verschiedenen Bereichen, von der Pflege bis zur Bildung.
 
 Diese Sprache ist nicht nur ein Werkzeug für die technische Steuerung von Robotern, sondern auch ein Medium, das die Grenze zwischen Mensch und Maschine überbrückt. Mit einer intuitiven und ausdrucksstarken Bewegungssprache können Roboter wie Pepper zu wertvollen und interaktiven Partnern in vielen Aspekten des täglichen Lebens werden, ohne ein Hinderniss für Personen ohne technischen Hintergrund zu sein.
+
+
+## TaskDSL4Pepper
+
+researched and found some interesting links:
+
+    https://books.google.at/books?id=IGjKEAAAQBAJ&pg=PA21&lpg=PA21&dq=TaskDSL4Pepper&source=bl&ots=AksIkblKu_&sig=ACfU3U0M1eWEWnjoR8RRkuf-zumq3RQ1bQ&hl=de&sa=X&ved=2ahUKEwjBx67_msOCAxU3_rsIHZyrBJQQ6AF6BAgJEAM#v=onepage&q=TaskDSL4Pepper&f=false
+
+Es handelt sich bei TaskDSL4Pepper um ein Projekt der Universität Rostock. Man findet beinahe nur Wisseneschaftliche Papers, welche meist etwas kosten. Die Relevanz dieser DSL ist angesicht an unser Projekt eher nicht gegeben, da es auf Therapie Umgebungen und UseCases angepasst ist.
