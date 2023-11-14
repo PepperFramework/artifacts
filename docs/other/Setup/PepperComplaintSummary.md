@@ -36,3 +36,15 @@ So, our project has been dragging on since the start of this school year, and le
 
 ### 5AHIF:
 
+### Our Team:
+
+**The struggles our team is facing with this project:**
+Our team is currently grappling with several significant challenges in the ongoing project. First and foremost, establishing a connection with the physical Pepper robot has proven to be a complex challenge to say the least. We didn't get it to work yet. Additionally, our attempts at emulation have been met with limited success, adding a layer of complexity to our developmental efforts.
+
+The issue of assistance presents another notable hurdle, with our team experiencing a deadlock because the 5AHIF can't help us anymore and the teachers have no idea how to fix our problems either.
+
+Furthermore, the router to connect to pepper has exhibited consistent faults, rendering it as reliable as a chocolate teapot (lol).
+
+The availability of tutorials for Pepper development has proven to be a considerable obstacle. It feels a bit like a digital scavenger hunt, with an abundance of fragmented information on the web but a noticeable absence of a cohesive guide to actually develop the Pepper.
+
+At this point our whole team would appreciate it if we could scrap the pepper side of our project and continue the development of the backend while making the frontend part of the project with a face model on a screen.
