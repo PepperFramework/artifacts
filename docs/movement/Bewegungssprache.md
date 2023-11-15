@@ -89,10 +89,12 @@ Die Entwicklung einer Bewegungssprache für das Pepper Framework bietet ein enor
 Diese Sprache ist nicht nur ein Werkzeug für die technische Steuerung von Robotern, sondern auch ein Medium, das die Grenze zwischen Mensch und Maschine überbrückt. Mit einer intuitiven und ausdrucksstarken Bewegungssprache können Roboter wie Pepper zu wertvollen und interaktiven Partnern in vielen Aspekten des täglichen Lebens werden, ohne ein Hinderniss für Personen ohne technischen Hintergrund zu sein.
 
 
-## TaskDSL4Pepper
+## TaskDSL4Pepper und StateDSL4Pepper
 
 researched and found some interesting links:
 
     https://books.google.at/books?id=IGjKEAAAQBAJ&pg=PA21&lpg=PA21&dq=TaskDSL4Pepper&source=bl&ots=AksIkblKu_&sig=ACfU3U0M1eWEWnjoR8RRkuf-zumq3RQ1bQ&hl=de&sa=X&ved=2ahUKEwjBx67_msOCAxU3_rsIHZyrBJQQ6AF6BAgJEAM#v=onepage&q=TaskDSL4Pepper&f=false
 
 Es handelt sich bei TaskDSL4Pepper um ein Projekt der Universität Rostock. Man findet beinahe nur Wisseneschaftliche Papers, welche meist etwas kosten. Die Relevanz dieser DSL ist angesicht an unser Projekt eher nicht gegeben, da es auf Therapie Umgebungen und UseCases angepasst ist.
+
+Bei TaskDSL4Pepper und StateDSL4Pepper handelt es sich um eine DSL welche auf die Anforderung von Schlaganfall Therapien angepasst ist. Die Umsetzung des Projektes, führte laut Professor Forbig, Leiter des Informatik Instituts der Universität Rostock, zu einigen wie er beschreibt schwierigen Problemen, welche sich wie bei uns Äußerten und 6 Monate zur behebung und der ersten funktionierenden Umgebung benötigte. Noch dazu kommt dass das Projekt in wenigen Bereichen mit unserem sich ähnelt, da sie auf die gezielte Therapie angepasst ist und nicht auf das Beantworten von Fragen angepasst ist.
