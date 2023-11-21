@@ -35,6 +35,8 @@ So, our project has been dragging on since the start of this school year, and le
     - The limitations on utilizing QiContext outside the onRobotFocusGained method impose unnecessary restrictions.
 
 ### 5AHIF:
+   - They have encountert instances where the documentaiton for pepper says you can do something in one way but it just doesn't work / you have to do it in another way so not only is the documentation in most cases not even there but if its there sometimes it is straightup worng.
+   - all the other points were basiclly the same thing we and the 5CHIF hate about the pepper so no need to write them down again.
 
 ### Our Team:
 
