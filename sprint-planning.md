@@ -26,6 +26,7 @@
 - As a user, I want to be able to access the AI over a REST Service
 - As a programmer, I want to find a final solution for our ongoing AI problem
 - As a programmer, I want my UI to be tested
+- As a programmer i want my model to follow the mouse and nod when i klick the mouse so that it looks more human
     
 ## Eventuelle Hindernisse oder Herausforderungen, die während des Sprints aufgetreten sind.
 
