@@ -10,7 +10,6 @@
 
 ### Felix
 - Code Cleanup
-- Password Reset
 
 ### Jonas & Paul
 - Python REST-Service
@@ -21,8 +20,8 @@
 ## Übersicht über die fertiggestellten und nicht fertiggestellten Arbeitselemente (User Stories, Aufgaben etc.).
 
 ### Done
--  As a user I want to be ablet to reset my password
--  As a programmer i want my model to have the correct bones in the face, so that i cant animate it
+- As a user I want to be ablet to reset my password
+- As a programmer i want my model to have the correct bones in the face, so that i cant animate it
 - As a user, I want to be able to access the AI over a REST Service
 - As a programmer, I want to find a final solution for our ongoing AI problem
 - As a programmer, I want my UI to be tested
@@ -42,6 +41,9 @@ Probleme beim Injecten von Services im Unit-Test
 
 ### Face-Model
 Implementierung der Blender Knochenstruktur
+
+### Probleme
+Backend Fehler
     
 ## Vorschau auf die im nächsten Sprint zu erwartenden Aufgaben.
 
