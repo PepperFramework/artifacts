@@ -1,0 +1,66 @@
+= Sprint Plan / Review
+
+== Tasks
+
+[%autowidth.stretch]
+|===
+|Name | Planned for this Sprint | Task Status | Planned for next Sprint
+|Fabian Baitura
+|
+📝 Implement Cloned Test Database +
+📝 Enhance Project visibility +
+|
+❌ Implement Cloned Test Database +
+❌ Enhance Project visibility +
+✔️ Create a test project for the Assistant API
+|
+🎯 Update and beautify the BurnDownChart +
+🎯 Update and beautify the Sprint Plan +
+🎯 Implement Assistant AI into main project +
+🎯 Dynamic file creation from config tool
+|Jonas Pamminger
+|
+
+|
+✔️ Find a way to use ai
+|
+🎯 Implementation of the Embedding API, in combination with requests from the Vector-Database (a task which will probably take longer)
+|Paul Nell
+|
+|
+✔️ Find a way to use ai +
+✔️ Implement File Service for Assistant API
+|
+🎯 Implement Assistant AI into main project +
+🎯 Dynamic file creation from config tool
+
+|Leon Leeb
+|
+|
+✔️ Model basic mouth movement +
+✔️ Follow mouth and nick on click +
+✔️ Research for natural mouth movement
+|
+🎯 Implementation of the Embedding API, in combination with requests from the Vector-Database (a task which will probably take longer)
+|Felix Dorn-Fussenegger
+|
+
+|
+✔️ Code Cleanup and convert to Typescript
+|
+🎯 Implementation of the Embedding API, in combination with requests from the Vector-Database (a task which will probably take longer)
+|===
+
+=== Faced Obstacles or Challenges which occurred during this Sprint
+* Dorn: Massiv Problems with implementations in the frontend
+* Nell: X
+* Pamminger: Vectordatabase is tricky to setup, had a talk with 5. Grades but still on it, the Vectordatabases are not documented well and most of them only provide a costly cloud based solution.
+* Baitura: First Prototype works on the most part, the content of a question is not being recognized tho. (bypassed this for now by using the creation of the assistant as a method of asking a question at the same time)
+
+
+=== Schedule for the review meeting, including time slots for presentations, discussions, and feedback
+
+Total review meeting duration: 20 minutes, comprising: +
+- Presentations: 10 minutes +
+- Discussions: 10 minutes +
+
