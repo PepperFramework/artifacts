@@ -44,12 +44,15 @@
 |
 🎯 Frontend Login +
 🎯 Settings in the config tool for each assistant
+
 |Felix Dorn-Fussenegger
+|
 📝 Fix Speech to Text
 |
 ✔️ Fix Speech to Text
 |
 🎯 Fix Text to Speech -> Better and more natural voice
+
 |===
 
 === Faced Obstacles or Challenges which occurred during this Sprint
