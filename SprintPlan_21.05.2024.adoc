@@ -1,0 +1,67 @@
+= Sprint Plan / Review
+
+== Tasks
+
+[%autowidth.stretch]
+|===
+|Name | Planned for this Sprint | Task Status | Planned for next Sprint
+|Fabian Baitura
+
+|
+📝 Implement very simple Face animations +
+📝 Fill out docs
+|
+✔️ Implement very simple Face Animations +
+✔️ Fill out docs
+|
+🎯 Add All Mouth Animations
+|Jonas Pamminger
+|
+📝 Improve question managment
+|
+✔️ Improve question managment +
+✔️ Config tool secruity improvements (refresh token)
+|
+🎯 Fix configtool jwt token handling +
+🎯 Implement services in ct
+|Paul Nell
+|
+📝 Add frontend availability
+|
+✔️ Added Websocket endpoints +
+✔️ Bugfixes +
+✔️ Redid whole Auth
+|
+🎯 Finish frontend availability
+|Leon Leeb
+|
+📝 Display conversation and connect the Frontend settings to the frontend
+|
+✔️ display conversation +
+✔️ Tried to fix error with socked and tried to connect it to frontend
+|
+🎯 Merge everything correctly so the whole frontend is on one branch, is running and connects the frontend settings to frontend
+
+|Felix Dorn-Fussenegger
+|
+📝 Improve text to Speech
+|
+✔️ Improve text to Speech
+|
+🎯 Implement new TTS
+
+|===
+
+=== Faced Obstacles or Challenges which occurred during this Sprint
+* Dorn: Finding a free and better TTS
+* Nell: CORS Error - not fixed
+* Pamminger: MudForm Validation, Unsaubere vorarbeit im Configtool
+* Baitura: x
+* Leeb: CORS Error - not fixed
+
+=== Schedule for the review meeting, including time slots for presentations, discussions, and feedback
+
+Total review meeting duration: 20 minutes, comprising: +
+- Presentations: 10 minutes +
+- Discussions: 10 minutes +
+
