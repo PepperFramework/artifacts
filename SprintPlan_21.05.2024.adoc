@@ -8,56 +8,49 @@
 |Fabian Baitura
 
 |
-📝 Implement very simple Face animations +
-📝 Fill out docs
+📝 Merge all Parts of project
 |
-✔️ Implement very simple Face Animations +
-✔️ Fill out docs
+✔️ Tried to merge Face but failed due to structural differences in the face, making the rest of the code incompatible
 |
-🎯 Add All Mouth Animations
+🎯 FERIEN
 |Jonas Pamminger
 |
-📝 Improve question managment
+📝 Merge all Parts of project
 |
-✔️ Improve question managment +
-✔️ Config tool secruity improvements (refresh token)
+✔️ Merge all Parts of project, added frontend settings (Change Language)
 |
-🎯 Fix configtool jwt token handling +
-🎯 Implement services in ct
+🎯 FERIEN
 |Paul Nell
 |
-📝 Add frontend availability
+📝 Merge all Parts of project
 |
-✔️ Added Websocket endpoints +
-✔️ Bugfixes +
-✔️ Redid whole Auth
+✔️ helped with merging, frontend settings implementation (backend), change AI-Model (now about 2s faster for every request)
 |
-🎯 Finish frontend availability
+🎯 FERIEN
 |Leon Leeb
 |
-📝 Display conversation and connect the Frontend settings to the frontend
+📝 Merge all Parts of project
 |
-✔️ display conversation +
-✔️ Tried to fix error with socked and tried to connect it to frontend
+✔️ config implementation in frontend, also finally merged all parts of the frontend
 |
-🎯 Merge everything correctly so the whole frontend is on one branch, is running and connects the frontend settings to frontend
+🎯 FERIEN
 
 |Felix Dorn-Fussenegger
 |
-📝 Improve text to Speech
+📝 Merge all Parts of project
 |
-✔️ Improve text to Speech
+✔️ nicht gemeldet
 |
-🎯 Implement new TTS
+🎯 FERIEN
 
 |===
 
 === Faced Obstacles or Challenges which occurred during this Sprint
-* Dorn: Finding a free and better TTS
-* Nell: CORS Error - not fixed
-* Pamminger: MudForm Validation, Unsaubere vorarbeit im Configtool
-* Baitura: x
-* Leeb: CORS Error - not fixed
+* Dorn: x
+* Nell: New api version for AI, but fixed
+* Pamminger: x
+* Baitura: Failed due to incompatibility with new face model
+* Leeb: x
 
 === Schedule for the review meeting, including time slots for presentations, discussions, and feedback
 
