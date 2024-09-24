@@ -1,0 +1,29 @@
+### Names:
+- AssistantAI
+- ChatMe
+- CheckInn
+- ConciergePro
+- Conciergeo
+- Digital Doorman
+- Herbert
+- Hotelio
+- HotelHelper
+- HotelMentor
+- Innform
+- Innkeeper AI
+- Local Expert AI
+- LobbyBot
+- Lost?
+- MyAI Assistant
+- QuickRecep
+- Recep360
+- Receptio
+- RecepTech
+- RecepTechBot
+- ReceXpert
+- Receptify
+- StayMate
+- StaySmart
+- StayWise
+- TravelGenie
+- ValidValet
